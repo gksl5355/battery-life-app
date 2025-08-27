@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+catboost
+langchain
+langchain-core
+langchain-openai          # (OpenAI 사용 시) 다른 모델이면 교체
+langgraph                 # LangGraph
+python-dotenv             # (선택) 환경변수

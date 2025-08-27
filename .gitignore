@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.cbm
+
+# Data & Results
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+artifacts*/
+results*/
+*.log
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
